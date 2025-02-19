@@ -21,7 +21,7 @@ set $menu wofi --show run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/a42/wallpaper/1.jpg fill
+output * bg /home/a42/wallpaper/tree.png fill
 #
 # Example configuration:
 #
